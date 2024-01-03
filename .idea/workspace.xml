@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="509f43b0-f1ad-4fac-ba8f-63a30e39c680" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/abstractfactorypattern/AbsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/abstractfactorypattern/LDFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/common/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/LDCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/LDOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/LDPepperPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/NYCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/NYOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/NYPepperPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/factorymethodpattern/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/simplefactorypattern/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/simplefactorypattern/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/simplefactorypattern/PepperPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorypattern/simplefactorypattern/SimplePizzaFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2aQjf23QCbbIxcpvQY7g2bgXRZm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/桌面/Project/Design-Pattern/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="factorypattern.common" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="factorypattern.common" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="509f43b0-f1ad-4fac-ba8f-63a30e39c680" name="更改" comment="" />
+      <created>1704257799260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704257799260</updated>
+      <workItem from="1704257800302" duration="1020000" />
+      <workItem from="1704258833786" duration="2286000" />
+      <workItem from="1704269239845" duration="686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
