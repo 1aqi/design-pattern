@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+
+# 微信公众号配置信息
+# originalid：原始ID
+# appid：个人AppID
+# token：开通接口服务自定义设置
+wx:
+  config:
+    originalid: gh_3f52c98dc
+    appid: wx4bd388e42758
+    token: b8b6
